@@ -13,4 +13,3 @@ i can compare the staging area with the working directory to see the file(s) tha
 >What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 the situation the branches will be helppful is when i want to create another the version of my program (like adding features, add new language(s), etc.) but i'm not sure if it will work or not, so i create new branches to workout on that version, and if i find a bug on my main version, i can fix it and all the branches is up-to-date, and after finish develope a branch, i can merge it to main version.
-
