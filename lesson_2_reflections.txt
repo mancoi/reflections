@@ -1,0 +1,16 @@
+>What happens when you initialize a repository? Why do you need to do it?
+
+when i initialize repository, a ".git" will be create. I have to do it because it is neccesary to track my files (it will save the commits).
+
+>How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is use to make choice what changes i want to commit, because i want to keep the small size commit per logical changes. the value it offer is the changes of my file in working directory, and it convennience to commit what i want.
+
+>How can you use the staging area to make sure you have one commit per logical change?
+
+i can compare the staging area with the working directory to see the file(s) that have been changed, and after that, i add the file(s) that have been changed to the staging area, so the file in staging area and working directory is the same. After that, i want to commit the change(s), i compare the file(s) in staging area and the repository to double check it will be the changes i've made, and then i commit it, so it will commit only the file that have been changed (the file i want to change).
+
+>What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+the situation the branches will be helppful is when i want to create another the version of my program (like adding features, add new language(s), etc.) but i'm not sure if it will work or not, so i create new branches to workout on that version, and if i find a bug on my main version, i can fix it and all the branches is up-to-date, and after finish develope a branch, i can merge it to main version.
+
