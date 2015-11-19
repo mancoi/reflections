@@ -17,3 +17,8 @@ the situation the branches will be helppful is when i want to create another the
 >How do the diagrams help you visualize the branch structure?
 
 it's make the branches more easier to see and find out the parents of them, the branch that can't reachable,.., easier to understand about the branch and have a clear visual on its.
+
+>What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging to branches together is the two branches will become one, and we have the funtion on both of them. 
+We use diagram to express the branches because it make us more easier to understand the branches that what we can reach, what we cannot.
