@@ -22,3 +22,18 @@ it's make the branches more easier to see and find out the parents of them, the 
 
 The result of merging to branches together is the two branches will become one, and we have the funtion on both of them. 
 We use diagram to express the branches because it make us more easier to understand the branches that what we can reach, what we cannot.
+
+>What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros:
+	automatically merging:
+		-convennient, we dont have to do anything if there is a conflict.
+	manually merging:
+		-we can choose the better one to keep, make sure it's will be the best in the final version.
+cons:
+	automatically merging:
+		-it's may cause bug, errors or problem to the code, and it's may make the code cannot work anymore.
+		-it's can't know what is the better one to keep, it's can learn to do that but this will not alway work right.
+	manually merging:
+		-cost time, sometime is too much because we have to find out what's the conflict in the others one code, but we can talk to that person and find the way to solve it.
+		-if we not know what the conflict is or don't know what is better than to keep, we might cannot solve the conflict.
