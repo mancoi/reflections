@@ -5,3 +5,15 @@ beacause my computer may have problem and all my data will be gone, so, keep all
 >Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 because i may want to change something before i pull it to my local, and i may also want to check the file that someone else create before i pull.
+
+>Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork create a copy on GitHub, Clone create a copy on GitHub to your computer, branches create a another version of your work.
+
+Fork:
+	-use when you want to create a copy of someone's to your GitHub (because you dont have right to make changes to their work,etc.).
+Clone:
+	-make a copy of another work to your local.
+	-You can clone a work on the same computer (maybe like change the spot of its), clone a work of someone on GitHub, or clone a work that you forked (to create a remote automatically).
+Branches:
+	-when you want to make change to your work but not want to touch the original version.
