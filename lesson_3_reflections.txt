@@ -17,3 +17,7 @@ Clone:
 	-You can clone a work on the same computer (maybe like change the spot of its), clone a work of someone on GitHub, or clone a work that you forked (to create a remote automatically).
 Branches:
 	-when you want to make change to your work but not want to touch the original version.
+
+>What is the benefit of having a copy of the last known state of the remote stored locally?
+
+we can work on its offline and modified its offline like solve conflict, etc.
