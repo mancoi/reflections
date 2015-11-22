@@ -27,3 +27,12 @@ we can work on its offline and modified its offline like solve conflict, etc.
 without Git or GitHub, i will have to send an email to say that i just make change to some files, and send that file to the other one to make it clear, and if they find i have mistake, they will have to fix it, or create a text file to tell me what i have to fix, and when both of us see it ok, i will merge the file to make change to the main work.
 
 with Git or GitHub, it will make it easier.
+
+>When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When i'm not sure if the changes i made work, or i want the other check it if it have bug, typo, or something like that. In that case, i dont want to make changes on master at first because i want to make sure it work before i merge it's into master.
+
+make changes on seperate branch:
+	-can check, solve conflict,... before merge it to master.
+make changes on master branch:
+	-make change directly to the main work, so if someone want to update the work with their branch, they will have have to solve the conflict with master if there is a conflict.
