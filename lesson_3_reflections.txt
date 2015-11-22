@@ -21,3 +21,9 @@ Branches:
 >What is the benefit of having a copy of the last known state of the remote stored locally?
 
 we can work on its offline and modified its offline like solve conflict, etc.
+
+>How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+without Git or GitHub, i will have to send an email to say that i just make change to some files, and send that file to the other one to make it clear, and if they find i have mistake, they will have to fix it, or create a text file to tell me what i have to fix, and when both of us see it ok, i will merge the file to make change to the main work.
+
+with Git or GitHub, it will make it easier.
